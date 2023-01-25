@@ -69,10 +69,10 @@ may speed it up, but you have to be careful not to forget to add
 new files yourself (see 'git help status').
 no changes added to commit (use "git add" and/or "git commit -a")
 
-10) No they were not
+10)  No they were not
 	
-11) Error message appeared
+11)  Error message appeared
 	
-12) Yes
+12)  Yes
 	
-13)
+13)   .  ..  Labs  git-lab  git-lab-2
